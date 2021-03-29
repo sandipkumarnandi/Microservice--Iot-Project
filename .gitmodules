@@ -1,0 +1,15 @@
+[submodule "submodules/atpl-api-Dtos"]
+	path = submodules/atpl-api-Dtos
+	url = https://github.com/Antronsys/atpl-api-Dtos.git
+[submodule "submodules/atpl-api-AWS"]
+	path = submodules/atpl-api-AWS
+	url = https://github.com/Antronsys/atpl-api-AWS.git
+[submodule "submodules/atpl-api-Entities"]
+	path = submodules/atpl-api-Entities
+	url = https://github.com/Antronsys/atpl-api-Entities.git
+[submodule "submodules/atpl-api-Framework"]
+	path = submodules/atpl-api-Framework
+	url = https://github.com/Antronsys/atpl-api-Framework.git
+[submodule "submodules/atpl-api-Mappings"]
+	path = submodules/atpl-api-Mappings
+	url = https://github.com/Antronsys/atpl-api-Mappings.git

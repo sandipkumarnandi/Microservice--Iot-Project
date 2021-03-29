@@ -1,0 +1,15 @@
+{
+ "type": "postgres",
+    "host": "dbtest2atpl.cjlpeqhncs52.us-east-2.rds.amazonaws.com",
+    "port": 5432,
+    "username": "postgres",
+    "password": "123Max1234",
+    "database": "postgres",
+    "synchronize" : "true",
+    "schema": "IoT",
+ "entities": [
+      "./build/submodules/atpl-api-Entities/**/*.js"
+   ]
+   
+   
+}

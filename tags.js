@@ -1,0 +1,9 @@
+{
+    /* ... */
+    tags: [
+      {
+        name: 'CRUD operations'
+      }
+    ],
+    /* ... */
+  };
